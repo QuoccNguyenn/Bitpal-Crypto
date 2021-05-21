@@ -22,7 +22,7 @@ const App = () => {
   window.addEventListener('scroll',changedBackground)
 
   return(
-    <Box_app>
+        <Box_app>
       <Boxline>
             <div className="item-line"></div>
             <div className="item-line"></div>
